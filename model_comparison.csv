@@ -1,0 +1,4 @@
+model,training_time_s,accuracy,f1,auc,cm_TN,cm_FP,cm_FN,cm_TP,interpretability_tools,interpretability_mind,code_difficulty
+XGBoost,2,0.805,0.8696,0.7805,31,29,10,130,high,medium,very easy
+UTA_DIS,5,0.755,0.8454,0.6598,17,42,7,134,very high,very high,hard
+NN,3,0.755,0.8316,0.765,30,30,19,121,medium,very low,easy
