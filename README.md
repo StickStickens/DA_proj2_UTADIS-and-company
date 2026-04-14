@@ -6,3 +6,5 @@ all .ipynb files are the project codebase + report each file contains a separate
 - `quick_comparison.ipynb` - comparison of most important statistics of all models. exported to `model_comparison.csv`
 
 project aims and requirements in `DA_preference_learning_project.pdf`
+
+HTML versions of notebooks are inside `html/`
