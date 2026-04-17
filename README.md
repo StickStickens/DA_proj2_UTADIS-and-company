@@ -4,6 +4,8 @@ all .ipynb files are the project codebase + report each file contains a separate
 - `dataset.ipynb` - short description of the dataset and our approach to it
 - `NN_UTA_DIS.ipynb`; `nn.ipynb`; `xgb.ipynb` - whole implementation, analysis,of models and their interpretability
 - `quick_comparison.ipynb` - comparison of most important statistics of all models. exported to `model_comparison.csv`
+  
+(html versions in html folder)
 
 project aims and requirements in `DA_preference_learning_project.pdf`
 
